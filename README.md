@@ -1,6 +1,6 @@
 # Udacity Front-End Web Developer - Feed Reader Testing Project Overview
 The starter code of this project has downloaded through  https://github.com/udacity/frontend-nanodegree-feedreader.
-Purpose of this project ,writing tests suits by using [Jasmine](http://jasmine.github.io/) for given a web-based application that reads RSS feeds .
+Purpose of this project ,writing tests suits by using [Jasmine](http://jasmine.github.io/) for given a web-based application that reads RSS feeds .You can see test methods under jasmine/spec/feedreader.js
 
 ### Technologies used
 - HTML
